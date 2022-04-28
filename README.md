@@ -1,1 +1,1 @@
-# ajax
+# A repo for ajax learning.
